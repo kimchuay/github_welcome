@@ -1,2 +1,2 @@
 # github_welcome
-Welcom to your very first open
+Welcome to your very first open
